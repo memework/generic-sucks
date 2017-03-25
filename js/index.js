@@ -44,9 +44,9 @@ function draw() {
     meme.y += meme.speed;
   }
 
+  // Remove sprites that fall off of the screen
   for (var i = memes.length - 1; i > 0; i--) {
     if (memes[i].y > innerHeight + memes[i].image.height) {
-      console.log('snowflake: removed ' + i + ', total=' + memes.length);
       memes.splice(i, 1);
     }
   }
@@ -63,6 +63,9 @@ window.addEventListener('resize', function () {
 var images = [qry('#img-b1nzy'), qry('#img-eyes'), qry('#img-cat'), qry('#img-jake')];
 
 setInterval(function () {
+  if (memes.length > 200) {
+    return;
+  }
   var far = Math.random() + 0.4;
   var img = images[Math.floor(Math.random() * images.length)];
   var x = Math.floor(Math.random() * (innerWidth - 250));
