@@ -19,7 +19,7 @@
 
   <script>
     var tag = document.createElement('script');
-    tag.src = "https://www.youtube.com/player_api";
+    tag.src = 'https://www.youtube.com/player_api';
     var firstScriptTag = document.getElementsByTagName('script')[0];
     firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
     var player;
@@ -33,14 +33,28 @@
         }
       });
     }
+
     function onPlayerReady(event) {
       event.target.setVolume(100);
       event.target.playVideo();
     }
-    function onPlayerStateChange(event){
-      if(event.data == 0)
+
+    function onPlayerStateChange(event) {
+      if (event.data === 0) {
         event.target.playVideo();
+      }
     }
+
+    setInterval(function() {
+      if (player == undefined || typeof(player.getCurrentTime) !== 'function' ||
+          hyperEnable == undefined) return;
+      var cur = player.getCurrentTime();
+      if (Math.round(cur) == 139) {
+        hyperEnable();
+      } else if (cur >= 215 && cur < 216) {
+        hyperDisable();
+      }
+    }, 1);
   </script>
 
   <canvas>

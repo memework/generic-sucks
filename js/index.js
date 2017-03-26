@@ -9,11 +9,30 @@ function resize() {
 }
 
 var memes = [];
+var cap = 250;
+var hyper = false;
+
+function hyperEnable() {
+  hyper = true;
+  cap = 1000;
+  document.querySelector('#memeplane').style.animationName = 'fly-plane-extreme';
+}
+
+function hyperDisable() {
+  hyper = false;
+  cap = 250;
+  document.querySelector('#memeplane').style.animationName = 'fly-plane';
+}
 
 function draw() {
   ctx.clearRect(0, 0, cnvs.width, cnvs.height);
 
-  ctx.fillStyle = '#7289DA'; // blurple
+  if (hyper) {
+    let h = (Date.now() / 10) % 360;
+    ctx.fillStyle = `hsla(${h}, 100%, 50%, 1)`;
+  } else {
+    ctx.fillStyle = '#7289DA'; // blurple
+  }
   ctx.fillRect(0, 0, cnvs.width, cnvs.height);
 
   for (var i = 0; i < memes.length; i++) {
@@ -38,17 +57,28 @@ function draw() {
   requestAnimationFrame(draw);
 }
 
+setInterval(function() {
+  if (hyper) {
+    for (var i = 0; i < 3; i++) {
+      spawnMeme();
+    }
+  } else {
+    spawnMeme();
+  }
+}, 8);
+
 // resize the canvas
 resize();
 window.addEventListener('resize', function() {
+  memes = [];
   resize();
 });
 
 var images = document.querySelectorAll('.images img');
 
-setInterval(function() {
+function spawnMeme() {
   // cap at 200 sprites
-  if (memes.length > 200) {
+  if (memes.length > cap) {
     return;
   }
 
@@ -66,7 +96,7 @@ setInterval(function() {
     speed: img.width * far / 15,
     rot: Math.random() * 2
   });
-}, 5);
+}
 
 // draw
 draw();

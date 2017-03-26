@@ -23,51 +23,42 @@ html, body {
           animation: fly-plane 50ms infinite ease-in-out;
 }
 
-@-webkit-keyframes fly-plane {
+@keyframes fly-plane {
   0% {
-    -webkit-transform: translate(-7px, 4px) rotate(-45deg);
-            transform: translate(-7px, 4px) rotate(-45deg);
+    transform: translate(-7px, 4px) rotate(-45deg);
   }
   25% {
-    -webkit-transform: translate(4px, -8px) rotate(-45deg);
-            transform: translate(4px, -8px) rotate(-45deg);
+    transform: translate(4px, -8px) rotate(-45deg);
   }
   50% {
-    -webkit-transform: translate(-5px, 3px) rotate(-45deg);
-            transform: translate(-5px, 3px) rotate(-45deg);
+    transform: translate(-5px, 3px) rotate(-45deg);
   }
   75% {
-    -webkit-transform: translate(4px, 8px) rotate(-45deg);
-            transform: translate(4px, 8px) rotate(-45deg);
+    transform: translate(4px, 8px) rotate(-45deg);
   }
   100% {
-    -webkit-transform: translate(7px, 6px) rotate(-45deg);
-            transform: translate(7px, 6px) rotate(-45deg);
+    transform: translate(7px, 6px) rotate(-45deg);
   }
 }
 
-@keyframes fly-plane {
+@keyframes fly-plane-extreme {
   0% {
-    -webkit-transform: translate(-7px, 4px) rotate(-45deg);
-            transform: translate(-7px, 4px) rotate(-45deg);
+    transform: translate(-12px, 10px) rotate(-45deg);
   }
   25% {
-    -webkit-transform: translate(4px, -8px) rotate(-45deg);
-            transform: translate(4px, -8px) rotate(-45deg);
+    transform: translate(11px, -13px) rotate(-45deg);
   }
   50% {
-    -webkit-transform: translate(-5px, 3px) rotate(-45deg);
-            transform: translate(-5px, 3px) rotate(-45deg);
+    transform: translate(-12px, 14px) rotate(-45deg);
   }
   75% {
-    -webkit-transform: translate(4px, 8px) rotate(-45deg);
-            transform: translate(4px, 8px) rotate(-45deg);
+    transform: translate(12px, 13px) rotate(-45deg);
   }
   100% {
-    -webkit-transform: translate(7px, 6px) rotate(-45deg);
-            transform: translate(7px, 6px) rotate(-45deg);
+    transform: translate(13px, 14px) rotate(-45deg);
   }
 }
+
 canvas {
   position: absolute;
   top: 0;
