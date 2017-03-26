@@ -272,3 +272,71 @@ View my publicly-auditable identity here: https://keybase.io/agenericgamer
 
 ==================================================================
 
+==================================================================
+https://keybase.io/imfluffy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://generic.sucks
+  * I am imfluffy (https://keybase.io/imfluffy) on keybase.
+  * I have a public key with fingerprint BE9B C7EC A36D A7A9 83E9  4FAB 061B 5A93 3972 BFB7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014d06649e8857a9eb3e50a7d98fda80d544c521a6ae16fb655bacc901214b03a10a",
+            "fingerprint": "be9bc7eca36da7a983e94fab061b5a933972bfb7",
+            "host": "keybase.io",
+            "key_id": "061b5a933972bfb7",
+            "kid": "01014d06649e8857a9eb3e50a7d98fda80d544c521a6ae16fb655bacc901214b03a10a",
+            "uid": "ffedc7b8d6512e683b141fc8f1801319",
+            "username": "imfluffy"
+        },
+        "service": {
+            "hostname": "generic.sucks",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490490803,
+    "expire_in": 157680000,
+    "prev": "b14a573a8f0142ef11215bcf3ddde7ce95b3ac4a94fa1b33d1673eb66f25450f",
+    "seqno": 21,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJbSBVBGD52MTMiJUwiElq6qsjOmZ29nAjMqLQCHySyUE8zOzPHxdPu
+cXfPKZOCooRC6AhdMEmEiJLCkKILJRwP9iBGIEUGZdFDQQXdL1BBzXZ56rVhYJh/
+vu+b7/9mRmZPDeXnGNzIbBzvgzljw93JUP1E0aV2iTi0TYq0Sy3s18LilHl+tMWi
+UkSSgQwUKquqYjBdRxo2GIEMyVijhs4p1mWKFMVEYYBVzIDKiYoQwaZpyCAMFCJD
+DGQslUvcsmPMTbiW7QtZwgxiaszEUKVYiOqQGQrHRFYBQdiA0NDChBNNEJsdL2AI
+cwR7rMJyRE1sor/t/Yv/z76Tv+Q4Z9TUiE5VBMJM1SEBCuCmzoEuAwiMAOgx18Y7
+mEBbO3g8yXmbtKdcEtWUZbIg2KCTP4gYs5lrmRVe0mzxBDnhOr5jOnFx1Oz7CS8S
+UP22RIDdyUj0j0qUWDYVQQpGirme5dhSBAik6VuBLFAMWUxdhuUS25WwXBa1AgTS
+VF0WI7iHpYL4gYKRBrHORUphxoHoGRGTQ0op00xmIAKxqeDgTQCBkAJVg4yoKg8j
+BclcCvpqtR0pEgbCJ44JTc+K2dhPukzak800TAvl5Idyp08Jflgof2bB3393+EBe
+qFMbHFr/aD4dqtw53v25q6aka39KXfPipAqmLb90/vvpJfvT2xE/N7rywrq8rYeq
+y2rkOxtiC4abHq/OWxQ/XHl8Xun0TYPr0g2T4ElD9tuV9Ehu3dpvzrUPRb1f984J
+3b9rnnpaoj6+2FiSXrz8x6qiToPL489fFfRrCwY6J4ZSVnazVHx58DZU7jf3lt3q
+n8WPVrZmSo+9C19EVX09r5MTS7sKX0er3tz7vKXg7tD74o7JAy9307G313fH6xu8
+FduaMnPbD/pfsp9u/qBT3SNXVx38Ghq1y16VfqxdU9h6496sGV0Pq2qfFU+m9y2c
+aHzQs+xMR2NRR/WJ7JPSs3UDu9BPDjw/mw==
+=cnLP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/imfluffy
+
+==================================================================
