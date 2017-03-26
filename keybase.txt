@@ -415,3 +415,78 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/nullpixel
 
 ==================================================================
+==================================================================
+https://keybase.io/imr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://generic.sucks
+  * I am imr (https://keybase.io/imr) on keybase.
+  * I have a public key with fingerprint 7D68 64DF 3285 7878 5D1B  8DD6 83CD 81C9 CB3A CE85
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b9cdeb177ed9e58dc6b5625ce54d4b117dc56f8dcf88148939e8656400fe6f140a",
+            "fingerprint": "7d6864df328578785d1b8dd683cd81c9cb3ace85",
+            "host": "keybase.io",
+            "key_id": "83cd81c9cb3ace85",
+            "kid": "0101e5548f27c1c44195305e6cfffaa20d4a656ccaf4df4ba7ad3652fb57466f85e00a",
+            "uid": "d6b112de03a97f92463d9f07a9933f19",
+            "username": "imr"
+        },
+        "service": {
+            "hostname": "generic.sucks",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490546536,
+    "expire_in": 157680000,
+    "prev": "caef3bedd0ef89b4b7f5b25bcb6bc873c12262710c3280c123918a5c391098d4",
+    "seqno": 52,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMNyAnicbVJ/UFRVFF6QFCmFQQOcYognCMKK7/ePJUY0AwlqhloZYNDlvfvu230D
+7G67CywgGImtphGjoKbjyAwSkI5KSgGuMRJMLQRJUTDmhDBqA0yYlJk2YncZ/a/7
+z5lzzvd99zvn3r4VSzQBPnuGqj2DuuG9PoNX64s12WN3TRWYZJHLMF0FVgAXAyyU
+od1hKFBlTIfhBIlLApChRHAclAXI8DJgJYYlGQAZWqYlguBkwLAKqis8T9C8QAmQ
+ZxmWxnEFsgpB4yKmxRTVbIQ2q001O5AsJ7M8S8sKRfIMx3M8IxMSL6MiBWSeAAKQ
+KBFAnkFEk8XuZSBzkmiHCaoF1VBiWLT3P/hnvnECMgzNKyQHCEDThMBQOANZoCiK
+KJK4TIvIIwCigmzQksiJMsUypCIxHM2iaRiIL/ouXpSTWTQnKUOcEgVOEUiapWRB
+wTlREChKIQQv0A5tZrEIIrRaZMMqtRgqlKgAenfqHeJp0wjN0KaCBHsxKLAjntVm
+cViApRC1TA6H1a7zUh1lVi+2FEqGpyoGSTXLaIeIUQJtdtVixnQEQgKH6pUlaAFn
+aJahWC0GnVbVBg2qF8FwLI+j470HliBJIEKFkqAs41DhBYmWOIWRSEYCEisBnqMA
+QZIsyRE4QG+Do4wSCF5kAAq4wMs05p3rXbMF0zEk8ikakaZdNZpFR7ENYpW9V/P8
+ND4BmqXP+Xo/lyZgedCzL9dgCdKciNrCb1sVVZMUIcSGCm99mXrfnfxpR9WOvqbP
+L+/zXXuoeaNRu9TPf2vdNX2BZeqNqd6GzDOvG6snUx5VRXXH9IzF/xxR+V5j//5V
+YWcnu4+NOgO3bjkFau2ek9Ufxgq+j8pnprU3vj72U2Zj9+6WxzEEDGyeT1+TKn1S
+lftFIpflyjk/dw2fu1T/+M/JvoQHTVZng/Jj4NGkkeHbuMe0v/SvicH1IzkD5s4M
+11zuWLTjh4KbtUcaLnh84qN7bCH+Yk5nu5MKG7aNG9dM+8GasrCj+5LHj5cfb6tu
+sfduyru+q9H9y4BnV9199ytHJvKyLpWdrMjfE/7qm7fYu9np30ceeFnff6p0ZHvI
+svB/NgdcTJ3Xhawkfx9ICWzbcOej9/t/Lb134HR665WktFTrhaZvXwtOjsUGHrS/
+sy2o09n8dkrQyifp82zLiwvPtz3R1+nXrXflj/JZh69Xx72gP+v+6vLC+dDYGwqX
+9t251qKsYGDoShpfNrMiPntDYpZ4ZXsltvKhsra/ZmKnyamdghnhF4fy4fK6vlvu
+eFd0/m1r3F5PfG7E7J2GRn1k7c6DG03tkbOnyw5OvzTZHkOeubl6PtSVebg8+N8Y
++t6OziFdXOEHuH/9w02fdQT8PSq7F3zO/cFXfJNWP7P5kKu7L2ck4+MTieTuda1d
+frM9q2F910hy6xL/joXf/gO5OMBX
+=Mogt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/imr
+
+==================================================================
