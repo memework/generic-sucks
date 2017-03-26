@@ -148,3 +148,71 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/lnmds
 
 ==================================================================
+==================================================================
+https://keybase.io/jackl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://generic.sucks
+  * I am jackl (https://keybase.io/jackl) on keybase.
+  * I have a public key with fingerprint 58FF 055F 5EEB 9AEF B581  67D8 D9B9 E3A3 2069 7B97
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010148336583e9f30ca61b9c308a9c17d2264c4a78da518a87281d41f75f627c49be0a",
+            "fingerprint": "58ff055f5eeb9aefb58167d8d9b9e3a320697b97",
+            "host": "keybase.io",
+            "key_id": "d9b9e3a320697b97",
+            "kid": "010148336583e9f30ca61b9c308a9c17d2264c4a78da518a87281d41f75f627c49be0a",
+            "uid": "fe8afc41dd30852bfa4de2ecdebbe719",
+            "username": "jackl"
+        },
+        "service": {
+            "hostname": "generic.sucks",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490487355,
+    "expire_in": 157680000,
+    "prev": "05cc96418ef10d5350fd707d59e7141b67ac8e7d284c2113952bddd68398e0f4",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBVBGD6mlZpRUCQ9VLSQlknt7O7szByFsJeiHoIgkjIOszOzuql7
+jrvr8VgaJRFRRPXQFYvoHtlNKqgwKqObUEhGmSJ0T5PoRhBGNCv11mPzMsz/f983
+//fx3x6bHslOO2x+XtGzpqA/rePm7tpI6dPMorWKFef1SnStUimGL1HFhR/EKh2u
+RBUVqMDAum5CrAti6yqjJrAI01VMCQOIa5ppMIMizCkEmGKkYcANYCNomxpiBrGE
+SpVCxXbccuElPMcNpCzEtq1CaEMhLEKFbUEMTMQxJxYROtU11STIIkgSK+J+yJDD
+WdQXc5y4rMlHbHi8f+D/89y1w3K2wNRmBuBcCkDNsqnBhSYYF5YlECAh0BeeS6uF
+RK+mrLJKaSxUZCnpMBGmGtr40y4XrvAcNsevZZW+ZCa8eBBn8SrZqgiChB8NqUF9
+IsTWCSv2RyVmOS6XKUpGUni+E3eVKJBIFjihLDCIamCkQ1ioiFTC8UTMCREQmViV
+J/xHJMNoIGPENAAWNlA51KFqc6QiDol0YgDLRJRhIRPCBtMA0In0yzk3sU6wUG1D
+CX3VuPFQW85Jy6Wm75S7NKj1hNJ460ZZRiQtOzJq5IhwvSLZWeP/Ll1BMPpnzvxF
+vYfmHt+6U4cvPhduv6wcaZuR6ETTP24e3DTiVNnEXUU9xxpeZ7cuv3T2ak5VqqOz
+Y9qF9tljVqXOVZ/J3FA8IZ3Qpl9H8q/VW+e71v3YeO3Ow7tzP75/UJocmPJqX8Pg
+99OtC2+OzJpQ2tU9KQNVTIxdf95irjm9eFve/Hkle9obG9ycmiFrwfnl79v9FnTU
+zS3a9KEvcWrZlyWPvYUD/ZObtN43+TOnovX5pHlv2fhxqUcHuxY7S9suFrfl5rnJ
+ty3Pujqbe5rqD+TsmLWnZOhkCej1Z+TtX9b8oHdLMei+v7Ju38sno7dn9Z24UnMg
++u5T68DWkoOp718zvjXf6uu511j3G1GcRUs=
+=IPLW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jackl
+
+==================================================================
