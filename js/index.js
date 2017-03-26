@@ -54,7 +54,7 @@ setInterval(function() {
 
   var far = Math.random() + 0.4;
   var img = images[Math.floor(Math.random() * images.length)];
-  var x = Math.floor(Math.random() * (innerWidth - 250));
+  var x = Math.floor(Math.random() * innerWidth);
   var y = 0 - img.height * 2;
 
   memes.push({
