@@ -1,0 +1,150 @@
+==================================================================
+https://keybase.io/sliceofcode
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://generic.sucks
+  * I am sliceofcode (https://keybase.io/sliceofcode) on keybase.
+  * I have a public key with fingerprint 0AAE 88B3 A492 DCC1 0ABD  D8F8 1508 C19D 7436 A26D
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010117e7fb14d5552de6877dff7b136bac5f54cfc2aac4d45bcdea83729447422fd50a",
+            "fingerprint": "0aae88b3a492dcc10abdd8f81508c19d7436a26d",
+            "host": "keybase.io",
+            "key_id": "1508c19d7436a26d",
+            "kid": "010143a03002c61cf9078fefb6551a2d06a29b972129562570c594b8067f96f3acca0a",
+            "uid": "405fded48e56ec6dd58201daf1ee8a00",
+            "username": "sliceofcode"
+        },
+        "service": {
+            "hostname": "generic.sucks",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490486541,
+    "expire_in": 157680000,
+    "prev": "9c7008828878197fc726ccc79f6ca754e335aff22fee16293551ce8d45b14729",
+    "seqno": 94,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMNzAnicbVJ9TFVlHL5IIN3t8hGhwUTiaEl6Ze/5PudqwwxZw5EJJozIu3Pe8x7u
+4ePcyz0X6MIg0jSbCEqAOiLiw2yDjdig0MLxYRKo0KQuTOSjqLFFc/RhLljWOczW
+P73/vHt/v+d53uf3cc3ibzL7RQQNNHqYlny/GwPvF5oyJgMspZjolLyYrRTLRWsX
+ypOQ5rHnKhJmwwAOcJxFrCzilETTNCEhhmNZSZZZEScZUYC0TFNQhoQgQEqiaBFK
+SOBIluApiqUIQpZoIGBWTFbUbOR2uRXVY8gKAuI4kRQonpAgxIEgShInczgNOIjz
+EkuRjEAwkk50ODWDoZsTBQ3FK049pj/sa/b+B/+fb4oUAAkAARkcyjxgORnJIkPT
+uEBIQIfzIs8SOMHTDEGzANI8JXKAYWWekUkBQmHNd+GaHAVoWUISxSGaQZCRJJoj
+AC4JMo4QJwBgADXkVoV8pKO1PAUipwydEsLKrJieKNIDRm+NYh6BspGK3AqM1wph
+rqbzXW6nxwmdeXrK4fG4NJtB9XhdBrYYifZHKnZRUSW9lzqjCLk1xaliNlxHQo9i
+yOIUDyiOoSnciqE3XIob2RUDQbMMB/Rj/IOKdEkesgBwHMFxLIfzrAxZgoEQsrzM
+QIGlKUSStCDL+gARwhmCJ/W+QcQZE8YpfbqYUVeB6sRsPKX7FLKNupVsVfAUuvWq
+BweyHjP5mU2BAeuMJTOZHw/9d/W++j7kb3dT9fHNz8blXLkRnmrpi6rY3ekoH0lc
+rhniyQzHR/PLl36rrXpVCWmprlrwHRleuXou0zzSvynyzLeZUee8vXT/0LXlzMWi
+85VC39y62ft/LDVc/jCx/dbW1IOfMb7NKe+mTpQuDY+dnvP7YTHdH+38dXWqRA27
++8HSRLrzwNaL17e9XHDkpi00YSluU3S3I3ko3Pr7qX7trI95CfO3dKQ8AI6wA8yl
+yJjug++oCbNDMSmdN23TnTkBP8NdFxq+sPTcinoxpmtuvqJnaQff5rIGTZ9XePLN
+JrJi1QdqzzYftmkny1/pClYL+Bip6tTew1u0o0FfP+Uz9z9YyIqq2TnjhSe8Q0kR
+GbvTd1W2vR53vWB0dLLuvb2/9Ph2lFx9rS53Ojklre9e25fLXaVjdytnA2MLj1rG
+A0r2P0yIeHKmbM/bt//COi+nTdXFpow3J1nGFhryc6ZsJf6jVu9Id3tY74+RbNmK
+Zj60LtreGny/GVaXA3pb8/H1EQmrjReci8fqm2NyVip7/9zSCuLKa6OfHw78uHFj
+ALbSuH9fwyftvU31z8TmiCPb03oODcZffPqJnxpqhxeDy7NqznweHtKRdGff+kE2
+YcJXfK8+68r46anJk70tK6WJGQ/3zE+4K6ZUU8Zznx77rt1n2pgABztuv5D8zVue
+yOLtudbWOyDqRB6zYUPo2Mw/G+C9yQ==
+=S++Y
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sliceofcode
+
+==================================================================
+==================================================================
+https://keybase.io/lnmds
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://generic.sucks
+  * I am lnmds (https://keybase.io/lnmds) on keybase.
+  * I have a public key with fingerprint 03E6 892E 946C A2A0 44B4  45FB A48B 5F10 B7A9 62A5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01206565e6b57170788dd7c18f1877877dc4f6f4a0cac12eed8fb2e8908191bb3afd0a",
+            "fingerprint": "03e6892e946ca2a044b445fba48b5f10b7a962a5",
+            "host": "keybase.io",
+            "key_id": "a48b5f10b7a962a5",
+            "kid": "010187829a1f2878a63f9405c71c5ac67ab63ea475665fbb2b6f914bc80028312fe90a",
+            "uid": "c64dad3bb73e14933e87e9c1d0aea119",
+            "username": "lnmds"
+        },
+        "service": {
+            "hostname": "generic.sucks",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490486621,
+    "expire_in": 157680000,
+    "prev": "a98531a3d5abc753d8113fcc36f7102d5031228e9ef95baad7011d32f86d0f6c",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMNvAnicbVJ9TFVlHIYAGWCKtqCNxcehyZxcdt7zfbAENHQ6P1gzBIbd3nPOey6H
+y/3gnAvxJQslWpChrRBqTBQCLCExFA2roUQ6lUsRkzUEhJtK202IbGZ27Rym/7W9
+2/u+v/d5nt/z/PYOPhvgF+rfVmcO7zshfOZ/daChyC/rRtDeckxwSKVYcjlmRUsb
+KpCQ5jJbFQlLxnBA4AzN0IgRaBawOMtxksSKgJMBx7L6kkRKZmQK4iIUAYGQxMkC
+gTge5wAPBIGEsoRDLBGTFbsFqU5VsbsMWRIxHE8gnmJESECcogSKomUBUpxAywAX
+WMgzBKR1Yp5DMxi6OQFqKElx6DX9Yl6y9z/4p75x3SBH8BDIhH6ADCnzFE6LLBBp
+KDIsFBgSQYqlGUbvKxACI/OAEkQOxwmOBISM+CXfRUtyIkNJUCIFgSURoHiSRByL
+eBHo2RAEgDeAGlLt0IZ0dIHdJmnYvkRMLxUrIjKmasR48mxBdqQqYpJWJFo1nelU
+HS6H6CjQn/JcLqeWbFBdpU4D+xYSzE9UzIJil/Qp6oxipGqKw44lAx0puhRDVreF
+UxzDECARQyVORUVmxUDQLKNnwnGjDyo2ZsZzNAkgKdFQEFmalDgASFkUSUZmAU5I
+NK7HJzjEI5mnBQglFgdAIgmZYyRcZkTMyFVod+jaeisXtOiammKxQ1eRirB9Fwdy
+A/38Q/2WBT1jfC+/0JDwp5/u1J6VvoRL+X9WnXGy+fz27KzplptrQx7HTRz8/khL
+0N/D73nNsMvz/i1/nzb4palZI60JzhfaEhL5WNvycwWXq+YW4i+TfSMVoT/cPgha
+HuYuoJ0PctaEbT1QjWXMx/QOfco5zLGb+OsfCx0/bzsWM5Dd07iZi0wt8n71e3z4
+H0dhWkZeTKgnqqytrt8UD+WpAV/r58cit6zGk96sKVnXPPxrx5ZHuzPSgjY6ynLP
+20Ag5lcf4uoefrQrOGD8cDp99vWumemUo52mGemjxVpQX9MTW2NXngtLcJvcG1vf
+jo02Ha6c9/WlWtWKaxVep/lik/aLTTWNnR47HTY5O9z0TsDyxZALR1I3RGQyx+NH
+6woDv9jbe+Na9cRdJSrHPP/a7fbBq57MV/LKD5T1/1vqjs2pfWDb/cnmnsed19dn
+Df146M6Bkqr2rjmPh94U75tbfX989N4aMLJtfPtir/uhdcVQZf/+qBTP2pyilsbZ
+d+meM6/ml8xajtd+WLtnpDf9ZKE3uP7+joD9J7IjXoq0kWTGlWU/dZxvrFa//av+
+Xl7JB52ZEa1zL7e0LWDJd8Oi63c0rZp6vvncGLNh1J1y09ptiz4bc+vkdPoVzy4v
+9kZE4mTaTvrCZHlcYcM3MwOnHA3uQxOrVsataFew/q+7L/ksd4K/W5xq/IfOjwvy
+iuu61N/WV4rF6vyL/wGVTsTV
+=F6hr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lnmds
+
+==================================================================
