@@ -52,7 +52,8 @@ setInterval(function() {
     return;
   }
 
-  var far = Math.random() + 0.4;
+  var far = Math.random();
+  if (far > 0.35) far = 0.35;
   var img = images[Math.floor(Math.random() * images.length)];
   var x = Math.floor(Math.random() * innerWidth);
   var y = 0 - img.height * 2;
@@ -62,7 +63,7 @@ setInterval(function() {
     x: x, y: y,
     width: img.width * far,
     height: img.height * far,
-    speed: img.width * far / 10,
+    speed: img.width * far / 15,
     rot: Math.random() * 2
   });
 }, 5);
