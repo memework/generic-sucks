@@ -340,3 +340,78 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/imfluffy
 
 ==================================================================
+==================================================================
+https://keybase.io/nullpixel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://generic.sucks
+  * I am nullpixel (https://keybase.io/nullpixel) on keybase.
+  * I have a public key with fingerprint 8124 1B1F 36E7 3FE8 FF4C  6E4F A12D F202 5394 5915
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120a673d2cd25fd6ba67fd0243d9980dc67d240964b71f1433e87b0f921cefce2080a",
+            "fingerprint": "81241b1f36e73fe8ff4c6e4fa12df20253945915",
+            "host": "keybase.io",
+            "key_id": "a12df20253945915",
+            "kid": "0101f1769b57816340d98d947bde0b96adaa144fdf3b2875ff8da135687325b872310a",
+            "uid": "b3793178c006fea99c1370da1bf46619",
+            "username": "nullpixel"
+        },
+        "service": {
+            "hostname": "generic.sucks",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1490520124,
+    "expire_in": 157680000,
+    "prev": "198c6d8385888ff7700a8337bfc91f2d1772c358304bf8039af0dbd6179781bd",
+    "seqno": 27,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.66
+Comment: https://keybase.io/crypto
+
+yMNzAnicbVJtUFRVGGYJKUjFGEBFGONmORow536fi2FaU4bWDImDUIzrvfecs1yB
+3WV3WcBlDWpKPpKNxEgnpxDhBzUhX5EJMwvyUeBM5AAOU0RKDswkjBMyA0bQXUb/
+df6ced/zPM953uec3g1P+AUbauP+9k+pTg83DHVfyPNLu1X6kotSLKiQSnBRWXht
+w9kI2x3GLA1RCRSgGSALIosYFTE8QYKiVwQBhmORJEGAVEFEDAckgVNEmtAcy2Io
+KoBIDK1iomIGQCBTsRTRzCZss9o0s0OXhTTD0QpNWAGLLMGQEE4VMEdkmkGEAQzP
+Shwv0bxOzLTYfQzdnCLbcbxm0Xt6YVyz9z/4x76B7kYUJIUXIS2wHEASRBInKggD
+RRJkJMs0xxFEWIWBIk8IRDLN8gIUWYZXoMiw9JrvvDU5hRUllhahCoBAsCxJKs2K
+QGcohBMEWvIB7dhmlnOwjjbnZWdbtQKcTbljKb3t1FTsS9Y3yiOICZuxTVPj7Xlq
+ll1nW20Wh0W1ZOtHmQ6H1Z7gozoKrT5sPlaMj1SMimZGepI6w4ltds1iphJoHak6
+NJ8szUmAZ/Q342IpXGDVbNio+RC8KECgL9892KlL0hJUBQRZyEOohy+KAMiQZUWF
+qBJNGESLIqOyPGQBpxAIWEkmAClIoEVJj1NBlG+uXLOFSmBE3ads0jXtmsksO/Js
+mHL3dGcE+BmC/QLX+fu+mF9w0KbHH6/ll5CVPSm249HhkZVpcPegdUo9nRNWHjX9
+O+pMqgsCmQs3Z45fbjxr2lHu3ZX44XxXw8gc8aQGRnhsI0Ojh24olpD9/95Z+sHa
+632ybe7ICadsrx68utKyNDZV//x7c6+dmT8vBDmLosJuHWxbur4jD7yK3n7ZSw2k
+x2289FH04ZDb9d/ePp0+86BiafKNbT2ZiUCYWln+7K37oS2pe6KXC1rv4YqQpJik
+8daLrs0Z8Se949/cMNVfGJktP1HbBT0zk/2bAsVff47r2UtIQlx4adTJwf6HpUWl
+icv3imvXbx1dvhthzT1bmZL8QQmyn7EduvZnRlp++ECJ13Pl2Yb7f7z+V58tpmvR
+uTt/IuSYv3+GMznsu3nXm59+f3Xiy5Syd8/vW5U+Xgl1Ow6WPiVcyqWHQ0lG5M6L
+U3PQ5bm5rrVDqxoe6+33/Da537uRHr/z+ZaFpvljFSt9EflfQEtQ+95F8FNXmT3m
+lapT02PXtgttwUcOf33ZURPV+AncVpxjMLTywwXKUk35aHtlhGHXXN877sgCNX+6
+sWT16YlmB9WxUdlqZKs6A/alH41yHahZjNu50uTw1j0oKw5rL/knoCY1pe5ccFXb
+qabk9xMP/LjhqKFIGXmRU14onH3u+sBsTmd3j3MueuiZzVumPO6KhwthdV/NlNec
+Y2evrEcLeLWhOnx7c4f7bvN/06DEHQ==
+=OkGm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nullpixel
+
+==================================================================
