@@ -15,8 +15,33 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <iframe style="display: none;"
-    src="https://www.youtube.com/embed/feA64wXhbjo?autoplay=1&loop=1&playlist=feA64wXhbjo"></iframe>
+  <div id="ytplayer" style="display:none;"></div>
+
+  <script>
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/player_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+    var player;
+    function onYouTubePlayerAPIReady() {
+      player = new YT.Player('ytplayer', {
+        height: '360', width: '640',
+        videoId: 'feA64wXhbjo',
+        events: {
+          'onReady': onPlayerReady,
+          'onStateChange': onPlayerStateChange
+        }
+      });
+    }
+    function onPlayerReady(event) {
+      event.target.setVolume(100);
+      event.target.playVideo();
+    }
+    function onPlayerStateChange(event){
+      if(event.data == 0)
+        event.target.playVideo();
+    }
+  </script>
 
   <canvas>
   </canvas>
