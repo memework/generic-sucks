@@ -1,9 +1,6 @@
 'use strict';
 
-var qry = function qry(s) {
-  return document.querySelector(s);
-};
-var cnvs = qry('canvas');
+var cnvs = document.querySelector('canvas');
 var ctx = cnvs.getContext('2d');
 
 function resize() {
@@ -13,30 +10,14 @@ function resize() {
 
 var memes = [];
 
-memes.push({
-  image: qry("#img-b1nzy"),
-  x: 50, y: 50, size: 50, speed: 0.05
-});
-
 function draw() {
   ctx.clearRect(0, 0, cnvs.width, cnvs.height);
-  ctx.fillStyle = '#7289DA';
+
+  ctx.fillStyle = '#7289DA'; // blurple
   ctx.fillRect(0, 0, cnvs.width, cnvs.height);
 
-  for (var _iterator = memes, _isArray = Array.isArray(_iterator), _i = 0, _iterator = _isArray ? _iterator : _iterator[Symbol.iterator]();;) {
-    var _ref;
-
-    if (_isArray) {
-      if (_i >= _iterator.length) break;
-      _ref = _iterator[_i++];
-    } else {
-      _i = _iterator.next();
-      if (_i.done) break;
-      _ref = _i.value;
-    }
-
-    var meme = _ref;
-
+  for (var i = 0; i < memes.length; i++) {
+    let meme = memes[i];
     ctx.save();
     ctx.translate(meme.x, meme.y);
     ctx.drawImage(meme.image, meme.x, meme.y, meme.width, meme.height);
@@ -46,32 +27,36 @@ function draw() {
     meme.x -= meme.speed;
   }
 
-  // Remove sprites that fall off of the screen
+  // remove sprites that fall off of the screen
   for (var i = memes.length - 1; i > 0; i--) {
     if (memes[i].y > innerHeight + memes[i].image.height) {
       memes.splice(i, 1);
     }
   }
 
+  // draw again
   requestAnimationFrame(draw);
 }
 
-// Resize the canvas
+// resize the canvas
 resize();
-window.addEventListener('resize', function () {
-  return resize();
+window.addEventListener('resize', function() {
+  resize();
 });
 
-var images = [qry('#img-b1nzy'), qry('#img-eyes'), qry('#img-cat'), qry('#img-jake')];
+var images = document.querySelectorAll('.images img');
 
-setInterval(function () {
+setInterval(function() {
+  // cap at 200 sprites
   if (memes.length > 200) {
     return;
   }
+
   var far = Math.random() + 0.4;
   var img = images[Math.floor(Math.random() * images.length)];
   var x = Math.floor(Math.random() * (innerWidth - 250));
   var y = 0 - img.height * 2;
+
   memes.push({
     image: img,
     x: x, y: y,
@@ -82,6 +67,6 @@ setInterval(function () {
   });
 }, 5);
 
-// Draw
+// draw
 draw();
 requestAnimationFrame(draw);
