@@ -216,3 +216,59 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/jackl
 
 ==================================================================
+
+==================================================================
+https://keybase.io/agenericgamer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://generic.sucks
+  * I am agenericgamer (https://keybase.io/agenericgamer) on keybase.
+  * I have a public key ASAD3ISkIQsNsL4CdLn9BTI8DBezmNytAmqlvEHp7-Yktwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012003dc84a4210b0db0be0274b9fd05323c0c17b398dcad026aa5bc41e9efe624b70a",
+            "host": "keybase.io",
+            "kid": "012003dc84a4210b0db0be0274b9fd05323c0c17b398dcad026aa5bc41e9efe624b70a",
+            "uid": "170935e0a69f92c8435a671cdac14319",
+            "username": "agenericgamer"
+        },
+        "service": {
+            "hostname": "generic.sucks",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1490487393,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1490487356,
+        "hash": "608ccb6d6aef14a49ec40d5a56af5e952274696bec593faaa86cfb3696ce00a6b149c3983ff4559469d7a995b75eeb266ddb32426ca1414743166dac03ec0ed2",
+        "seqno": 978357
+    },
+    "prev": "25e3a2cd54116e3d802deeedcea4676286d1f4eb370f7641472dcd7c99233ce4",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgA9yEpCELDbC+AnS5/QUyPAwXs5jcrQJqpbxB6e/mJLcKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMDNkYzg0YTQyMTBiMGRiMGJlMDI3NGI5ZmQwNTMyM2MwYzE3YjM5OGRjYWQwMjZhYTViYzQxZTllZmU2MjRiNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMDNkYzg0YTQyMTBiMGRiMGJlMDI3NGI5ZmQwNTMyM2MwYzE3YjM5OGRjYWQwMjZhYTViYzQxZTllZmU2MjRiNzBhIiwidWlkIjoiMTcwOTM1ZTBhNjlmOTJjODQzNWE2NzFjZGFjMTQzMTkiLCJ1c2VybmFtZSI6ImFnZW5lcmljZ2FtZXIifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImdlbmVyaWMuc3Vja3MiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MDQ4NzM5MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkwNDg3MzU2LCJoYXNoIjoiNjA4Y2NiNmQ2YWVmMTRhNDllYzQwZDVhNTZhZjVlOTUyMjc0Njk2YmVjNTkzZmFhYTg2Y2ZiMzY5NmNlMDBhNmIxNDljMzk4M2ZmNDU1OTQ2OWQ3YTk5NWI3NWVlYjI2NmRkYjMyNDI2Y2ExNDE0NzQzMTY2ZGFjMDNlYzBlZDIiLCJzZXFubyI6OTc4MzU3fSwicHJldiI6IjI1ZTNhMmNkNTQxMTZlM2Q4MDJkZWVlZGNlYTQ2NzYyODZkMWY0ZWIzNzBmNzY0MTQ3MmRjZDdjOTkyMzNjZTQiLCJzZXFubyI6NSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAEeBupZnFXgJZjSRkVMmKoVjO4bQfF6aqO5EVCiPtgkGOfUw8l5bv2Q3WqgHpr+RUXUyNZOZ+cJenXI/1WHfAEqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgGrn2lnRIltqa+dD98Htlu7QWjogeYFfmrZMDvApx4iOjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/agenericgamer
+
+==================================================================
+
