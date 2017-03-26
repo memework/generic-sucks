@@ -41,7 +41,9 @@ function draw() {
     ctx.translate(meme.x, meme.y);
     ctx.drawImage(meme.image, meme.x, meme.y, meme.width, meme.height);
     ctx.restore();
+
     meme.y += meme.speed;
+    meme.x -= meme.speed;
   }
 
   // Remove sprites that fall off of the screen
